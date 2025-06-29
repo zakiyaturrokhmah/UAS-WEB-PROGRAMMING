@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.home {
+  background: radial-gradient(circle at center, #ffe6ec 0%, #f9c4d2 40%, #fcdce4 100%);
+  font-family: "Poppins", sans-serif;
+}
+.login {
+  background: radial-gradient(circle at center, #ffe6ec 0%, #f9c4d2 40%, #fcdce4 100%);
+}
